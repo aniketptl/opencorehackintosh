@@ -1,5 +1,7 @@
 ## Asus TUF Gaming B460 Plus Hackintosh on OpenCore
 
+<img src="Screen.png" alt="about" width="600"/>
+
 ## macOS Versions
 #### macOS Catalina 10.15.4
 
