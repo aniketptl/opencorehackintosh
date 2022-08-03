@@ -2,9 +2,6 @@
 
 <img src="Screen.png" alt="about" width="600"/>
 
-## macOS Versions
-#### macOS Catalina 10.15.4
-
 ## SMBIOS
 #### iMacPro1,1
 
